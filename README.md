@@ -16,5 +16,4 @@ Ensure you have Python **3.8** installed. Then, install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-## Author : Sahil Halpati
-## Email  : halpatisahil91@gmail.com
+
